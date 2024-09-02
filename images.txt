@@ -3,6 +3,6 @@
 --platform=linux/arm64 xiaoyaliu/alist
 # CD2
 ## x86-64
---platform=linux/amd4 cloudnas/clouddrive2
+--platform=linux/amd64 cloudnas/clouddrive2
 ## arm64
---platform=linux/arm4 cloudnas/clouddrive2
+--platform=linux/arm64 cloudnas/clouddrive2
