@@ -1,3 +1,8 @@
 #支持指定架构
 #ARM64 Alist
 --platform=linux/arm64 xiaoyaliu/alist
+# CD2
+## x86-64
+--platform=linux/amd4 cloudnas/clouddrive2
+## arm64
+--platform=linux/arm4 cloudnas/clouddrive2
