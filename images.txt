@@ -1,10 +1,22 @@
 #支持指定架构
 #ARM64 Alist
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 # CD2
 ## x86-64
---platform=linux/amd64 cloudnas/clouddrive2
+#--platform=linux/amd64 cloudnas/clouddrive2
 ## arm64
---platform=linux/arm64 cloudnas/clouddrive2
+#--platform=linux/arm64 cloudnas/clouddrive2
 # movie-pilot
-jxxghp/moviepilot:latest
+#jxxghp/moviepilot:latest
+
+#shop-rabbitmq
+registry.cn-beijing.aliyuncs.com/javashop-k8s-images/rabbitmq:3.6.14
+
+#shop-es
+registry.cn-beijing.aliyuncs.com/javashop-k8s-images/elasticsearch:6.2.2
+
+#shop-openresty
+registry.cn-beijing.aliyuncs.com/javashop-k8s-images/openresty:nok8s-v1
+
+#shop-deploy
+registry.cn-beijing.aliyuncs.com/javashop-k8s-images/deploy:7.2.2
