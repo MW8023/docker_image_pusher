@@ -25,4 +25,7 @@
 #xuxueli/xxl-job-admin:2.4.0
 
 #shop-redis
-registry.cn-beijing.aliyuncs.com/javashop-k8s-images/redis:5.0.4-alpine
+#registry.cn-beijing.aliyuncs.com/javashop-k8s-images/redis:5.0.4-alpine
+
+#x86-64
+--platform=linux/amd64 minio/minio
