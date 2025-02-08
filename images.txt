@@ -28,4 +28,5 @@
 #registry.cn-beijing.aliyuncs.com/javashop-k8s-images/redis:5.0.4-alpine
 
 #x86-64
---platform=linux/amd64 minio/minio
+#--platform=linux/amd64 minio/minio
+--platform=linux/amd64 elasticsearch:7.6.2
