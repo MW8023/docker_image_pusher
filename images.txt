@@ -29,4 +29,7 @@
 
 #x86-64
 #--platform=linux/amd64 minio/minio
---platform=linux/amd64 elasticsearch:7.6.2
+#--platform=linux/amd64 elasticsearch:7.6.2
+
+## x86-64 N8N
+--platform=linux/amd64 n8nio/n8n
