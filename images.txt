@@ -3,7 +3,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # CD2
 ## x86-64
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
 ## arm64
 #--platform=linux/arm64 cloudnas/clouddrive2
 # movie-pilot
@@ -33,3 +33,7 @@ cloudnas/clouddrive2
 
 ## x86-64 N8N
 #--platform=linux/amd64 n8nio/n8n
+
+##MySQL 8.0.20
+mysql/mysql:8.0.20
+
