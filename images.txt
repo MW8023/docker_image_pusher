@@ -35,5 +35,8 @@
 #--platform=linux/amd64 n8nio/n8n
 
 ##MySQL 8.0.20
-library/mysql:8.0.20
+#library/mysql:8.0.20
+
+##postgres
+postgres:16.6
 
