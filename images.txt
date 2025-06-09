@@ -38,5 +38,8 @@
 #library/mysql:8.0.20
 
 ##postgres
-postgres:16.6
+#postgres:16.6
+
+##moviepy
+dkarchmervue/moviepy
 
